@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "title": "Night Vision 1x1",
   "author": "sakuro",
-  "description": "Night Vision 1x1",
+  "description": "Shrinks Nightvision to a 1x1 equipment grid slot.",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1"
