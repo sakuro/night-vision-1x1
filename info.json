@@ -6,6 +6,9 @@
   "description": "Shrinks Nightvision to a 1x1 equipment grid slot.",
   "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.1"
+    "base >= 2.1",
+    "! smallNightvision",
+    "! SmallNightvisionRevived",
+    "! small-nightvision"
   ]
 }
